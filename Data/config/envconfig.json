@@ -1,8 +1,9 @@
 {
-  "BOTNAME": "𝐅𝐀𝐑𝐀𝐁𝐈'𝐒 𝐉𝐀𝐍𝐔 𝐁𝐎𝐓",
-  "BOTNICK": "𝐅𝐀𝐑𝐀𝐁𝐈'𝐒 𝐉𝐀𝐍𝐔",
+  "BOTNAME": "KHENA DANI AYA THA",
+  "BOTNICK": "SANA",
   "PREFIX": ".",
   "ADMINBOT": [
+    "100004950765829"
     "61573781736874"
   ],
   "REACT_DELETE_EMOJI": "😡",
